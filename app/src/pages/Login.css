@@ -1,0 +1,26 @@
+.login{
+    background-color: #d9e3f0;
+
+}
+ion-grid{
+  
+    padding: 10% 20% ;
+
+}
+.rowLogin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.IonContent1{
+    --ion-background-color: #d9e3f0;
+}
+ion-grid{
+    width: 100%;
+}
+
+
+    
+    
+
